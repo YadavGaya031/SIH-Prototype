@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+langchain
+chromadb
+python-multipart
+pytesseract
+pdfplumber
+python-docx
+beautifulsoup4
+requests
+langchain-community
+langchain-cohere
+langchain-groq
+cohere
+python-dotenv
+transformers
